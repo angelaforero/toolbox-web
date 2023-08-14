@@ -14,4 +14,4 @@ docker run -it -p 3001:3001 toolbox-web
 
 ## Deploy
 
-You can use 
+You can use http://localhost:3001 to view table resume.
